@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\PriorityQueue.csproj", "{FCD7FF1F-241A-4C38-A383-CEC6772D287A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueueTests", "PriorityQueueTests\PriorityQueueTests.csproj", "{F330DFD4-9A32-48A4-9A82-B7890442CB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD7FF1F-241A-4C38-A383-CEC6772D287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD7FF1F-241A-4C38-A383-CEC6772D287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD7FF1F-241A-4C38-A383-CEC6772D287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD7FF1F-241A-4C38-A383-CEC6772D287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F330DFD4-9A32-48A4-9A82-B7890442CB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F330DFD4-9A32-48A4-9A82-B7890442CB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F330DFD4-9A32-48A4-9A82-B7890442CB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F330DFD4-9A32-48A4-9A82-B7890442CB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
